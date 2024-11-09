@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+}
+.b {
+  border: 5px double black;
+  border-radius: 5px;
+  width: 15%;
+  height: 55%;
+}
+.c {
+  border: 5px ridge rgb(209, 11, 11);
+  border-radius: 15px;
+  width: 15%;
+  height: 35%;
+}

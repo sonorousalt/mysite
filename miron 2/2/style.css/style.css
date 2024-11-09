@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+.a{
+    border: 1px solid red;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

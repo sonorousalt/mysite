@@ -1,0 +1,22 @@
+.td1 {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #e22b2b;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 1px rgb(129, 16, 16);
+}
+.T1 {
+  border-spacing: 5px;
+  background-color: rgb(162, 0, 255);
+  margin: 20px;
+  padding: 10px;
+}
+img {
+  width: 100px;
+}
+.th1 {
+  color: white;
+}
+.td1:hover {
+  background-color: #b52626;
+}

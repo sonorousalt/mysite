@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Nerko+One&display=swap");
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-color: blue;
+}
+.card {
+  width: 200px;
+  height: 230px;
+  text-align: center;
+  padding: 10px;
+}
+.img {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  margin: 0;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  margin: 10px;
+}
+header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+b {
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 20%;
+  width: 100%;
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 45px;
+  margin: 0;
+}
+h3 {
+  color: white;
+  margin: 0;
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+}
+main {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+img {
+  height: 100%;
+}
+.card {
+  box-shadow: 0 0 10px 1px;
+}
+.wrap {
+  width: 62%;
+  gap: 30px;
+  border: 1px solid red;
+}
+.card:hover {
+  box-shadow: 0 0 10px 1px white;
+}
+a:hover {
+  color: rgb(197, 197, 197);
+}
+.ACTIVE {
+  border-bottom: 5px solid black;
+  margin: 0;
+}

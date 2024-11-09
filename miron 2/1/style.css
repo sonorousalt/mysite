@@ -1,0 +1,166 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+header,main{
+    display:flex;
+}
+
+img{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+ul{
+    list-style: none;
+}
+header ul li{
+    float: left;
+    margin: 1px;
+}
+a{
+    text-decoration: none;
+    color: wheat;
+    width: 100px;
+    padding-left: 50px;
+padding-right: 50px;
+padding-top:20px ;
+padding-bottom:20px ;
+margin: 0;
+}
+.a{
+border: 1px solid blue ;
+background-color: blue;
+padding-left: 50px;
+padding-right: 50px;
+padding-top:20px ;
+padding-bottom:20px ;
+margin: 0;
+}
+.b{
+border: 1px solid greenyellow;
+background-color: greenyellow;
+padding-left: 50px;
+padding-right: 50px;
+padding-top:20px ;
+padding-bottom:20px ;
+margin: 0;
+}
+.c{
+    border: 1px solid yellow ;
+    background-color: yellow;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:20px ;
+    padding-bottom:20px ;
+    margin: 0;
+}
+.d{
+    border: 1px solid  purple;
+    background-color: purple;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:20px ;
+    padding-bottom:20px ;
+    margin: 0;
+}
+.e{
+    border: 1px solid orangered ;
+    background-color: orangered;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:20px ;
+    padding-bottom:20px ;
+    margin: 0;
+}
+.f{ 
+    border: 1px solid rgb(182, 22, 206)  ;
+    background-color:rgb(182, 22, 206) ;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:20px ;
+    padding-bottom:20px ;
+    margin: 0;
+}
+.Lmain{
+    width: 25%;
+    border: 1px solid red;
+}
+.Lmain ul li{
+    margin-bottom: 40px;
+}
+.Lmain ul {
+    width: 250px;
+}
+.Rmain{
+    width:65%;
+}
+.box{
+    width: 90%;
+    border: 1px solid blue;
+}
+.Lmain a{
+    border: 1px  solid red;
+    background-color: red;
+}
+main{
+    margin-top: 30px;
+}
+.vb{
+    width: 90%;
+    height: 70%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.bv{
+    width: 50%;
+    height: 30%;
+    background-color: yellow;
+    float: left;
+    margin-top: 10px ;
+    text-align: center;
+}
+.bw{
+    width: 40%;
+    height: 30%;
+    background-color: blue;
+    float: left; 
+    margin-top:10px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    margin-bottom: 40px;
+}
+.gh{
+    background-color: lime;
+    width: 25%;
+    height: 60%;
+    margin: 0;
+    float: left;
+    text-align: center;
+    margin-right: 20px;
+    padding: 15px;
+}
+.hg{
+    background-color: purple;
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 15px;
+}
+.fh{
+    background-color: orange;
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 15px;
+    margin-left: 20px;
+}
